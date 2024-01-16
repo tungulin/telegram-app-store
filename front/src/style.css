@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.ant-input,
+.ant-input-affix-wrapper,
+.ant-btn {
+    border: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+
+.ant-input:focus,
+.ant-input-affix-wrapper:focus,
+.ant-btn:focus {
+    border: none;
+    box-shadow: none;
+}
+
+.swiper-pagination-bullet-active-next,
+.swiper-pagination-bullet-active-prev {
+    background-color: #FFF !important;
+    opacity: .6 !important;
+}
+
+.swiper-pagination-bullet-active {
+    background-color: #FFF !important;
+
+}
+
+
+.vkuiSeparator {
+    display: none;
+}
+
+/* todo:check */
+.ant-row {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+iframe {
+    display: none;
+}
+
+.ant-card-cover {
+    margin: 0 !important;
+}

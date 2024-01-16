@@ -1,0 +1,33 @@
+{
+    "main": {
+        "catalog": "Каталог",
+        "hot": "Скидки",
+        "new": "Новейшие"
+    },
+    "navbar": {
+        "profile": "Профиль",
+        "settings": "Настройки"
+    },
+    "cardL": {
+        "buy": "Купить"
+    },
+    "search": {
+        "find": "Найти",
+        "noItems": "Нет товаров"
+    },
+    "itemPage": {
+        "price": "Цена",
+        "description": "Описание",
+        "rating": "Рейтинг"
+    },
+    "settings": {
+        "language": "Язык",
+        "save": "Сохранить",
+        "settings": "Настройки"
+    },
+    "filters": {
+        "filters": "Фильтры",
+        "categories": "Категории",
+        "apply": "Применить фильтр"
+    }
+}

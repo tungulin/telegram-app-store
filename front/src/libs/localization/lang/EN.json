@@ -1,0 +1,33 @@
+{
+    "main": {
+        "catalog": "Catalog",
+        "hot": "Hot",
+        "new": "New"
+    },
+    "navbar": {
+        "profile": "Profile",
+        "settings": "Settings"
+    },
+    "cardL": {
+        "buy": "Buy"
+    },
+    "search": {
+        "find": "Find",
+        "noItems": "No items"
+    },
+    "itemPage": {
+        "price": "Price",
+        "description": "Description",
+        "rating": "Rating"
+    },
+    "settings": {
+        "language": "Language",
+        "save": "Save",
+        "settings": "Settings"
+    },
+    "filters": {
+        "filters": "Filters",
+        "categories": "Categories",
+        "apply": "Apply filter"
+    }
+}
